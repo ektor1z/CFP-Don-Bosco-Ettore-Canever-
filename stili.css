@@ -9,7 +9,7 @@ body{
     color:white;
 }
 .blu_{
-    background-color: #535457;
+    background-color: #f8f9fb;
     color:white;
     
 }
@@ -59,4 +59,8 @@ body{
 #fascia-testo {
     min-height: 367px;
 }
+#card{
+    min-height: 367px;
 
+
+}
